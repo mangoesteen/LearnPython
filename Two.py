@@ -12,7 +12,7 @@ for color in colors:
 print('\n-------------------------------------')
 for index in [1, 2, 3, 4, 5]:
     print("{} times 5 is {}".format(index, index * 5))
-print('\n-------------------------------------')
+print('\n------------------------------------')
 
 #The While loop
 #Syntax of While loop
