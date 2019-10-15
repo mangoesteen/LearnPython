@@ -72,3 +72,6 @@ def num_factorial(num):
 
 
 num_factorial(5)
+
+name = input('Please enter Name ')
+print(name);
