@@ -1,2 +1,2 @@
 # LearnPython
-# Learn Git hi bro
+# Learn Git
